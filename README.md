@@ -2,6 +2,7 @@
 
 <h3 align="center">🫧 About Me 🫧</h3>
 <div align="center">
+  
 <span>🌱 I’m currently learning about Web Development and Cryptocurrency Wallets</span>
   
 <span>💻 I recently deployed a shopping mall clone coding project 🚀</span>
@@ -13,6 +14,7 @@
 <span>📫 How to reach me: jinju0323@gmail.com</span>
 
 <span>⚡ Fun fact: I love photography and journaling</span>
+
   </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
