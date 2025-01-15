@@ -1,6 +1,16 @@
 <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20jinju%20GitHub%20🚀&fontSize=40&fontColor=ffffff" />
 
-<!-- <img alt="header" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Welcome%20to%20myjjyu%20GitHub%20🚀&fontAlign=50&fontAlignY=70&fontSize=40&fontColor=ffffff" /> -->
+# Hi there! 👋
+
+## About Me
+
+- 🌱 I’m currently learning about **Web Development** and **Cryptocurrency Wallets**
+- 💻 I recently deployed a **shopping mall clone coding project** 🚀
+- 🐧 Exploring **Linux**, **AWS**, and **Docker** to enhance my backend skills
+- 💬 Ask me about **Spring Boot, and MySQL**
+- 📫 How to reach me: **jinju0323@gmail.com**
+- ⚡ Fun fact: I love **photography** and **journaling**
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
