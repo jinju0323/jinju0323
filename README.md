@@ -2,12 +2,12 @@
 
 <h3 align="center">🫧 About Me 🫧</h3>
 <div align="center">
-<a>🌱 I’m currently learning about **Web Development** and **Cryptocurrency Wallets**</a>
-<a>💻 I recently deployed a **shopping mall clone coding project** 🚀</a>
-<a>🐧 Exploring **Linux**, **AWS**, and **Docker** to enhance my backend skills</a>
-<a>💬 Ask me about **Spring Boot, and MySQL**</a>
-<a>📫 How to reach me: **jinju0323@gmail.com**</a>
-<a>⚡ Fun fact: I love **photography** and **journaling**</a>
+<span>🌱 I’m currently learning about **Web Development** and **Cryptocurrency Wallets**</span>
+<span>💻 I recently deployed a **shopping mall clone coding project** 🚀</span>
+<span>🐧 Exploring **Linux**, **AWS**, and **Docker** to enhance my backend skills</span>
+<span>💬 Ask me about **Spring Boot, and MySQL**</span>
+<span>📫 How to reach me: **jinju0323@gmail.com**</span>
+<span>⚡ Fun fact: I love **photography** and **journaling**</span>
   </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
