@@ -3,20 +3,21 @@
 <h3 align="center">🫧 About Me 🫧</h3>
 <div align="center">
   
-<span>🌱 I’m currently learning about Web Development and Cryptocurrency Wallets</span>
+  <span>🌱 I’m currently learning about Web Development and Cryptocurrency Wallets</span>
+    
+  <span>💻 I recently deployed a shopping mall clone coding project 🚀</span>
   
-<span>💻 I recently deployed a shopping mall clone coding project 🚀</span>
-
-<span>🐧 Exploring Linux, AWS, and Docker to enhance my backend skills</span>
-
-<span>💬 Ask me about Spring Boot, and MySQL</span>
-
-<span>📫 How to reach me: jinju0323@gmail.com</span>
-
-<span>⚡ Fun fact: I love photography and journaling</span>
-
-  </div>
-
+  <span>🐧 Exploring Linux, AWS, and Docker to enhance my backend skills</span>
+  
+  <span>💬 Ask me about Spring Boot, and MySQL</span>
+  
+  <span>📫 How to reach me: jinju0323@gmail.com</span>
+  
+  <span>⚡ Fun fact: I love photography and journaling</span>
+</div>
+  
+ <br> 
+ 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
